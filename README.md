@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Charlieee1. I like to say my main language is Python 3, so why are all my best repos in Javascript?  
+I like scripting stuff to augment the functionality of websites. Tampermonkey is my friend :)
 
 <!--
 **Charlieee1/Charlieee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
